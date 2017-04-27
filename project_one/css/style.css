@@ -1,0 +1,94 @@
+body{
+	font-family: 'Shadows Into Light', cursive;
+	margin: 0;
+	padding: 0;
+}
+.container{    
+		width: 1200px;
+    background: seagreen;
+    margin: 0 auto;}
+
+.menu{
+	    background: #050804;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;}
+li{
+	    list-style: none;
+    float: left;
+}
+a{
+	    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    display: block;
+    text-transform: uppercase;
+}
+a:hover{
+	    background: aliceblue;
+    color: yellowgreen;
+}
+
+
+.main-content{
+	width: 100%;
+    height: 600px;
+}
+.left{
+	    width: 70%;
+    height: 600px;
+    background: red;
+    float: left;
+}
+.one{
+	    width: 70%;
+    height: 200px;
+    background: darkblue;
+    float: left;
+}
+.two{    width: 30%;
+    height: 200px;
+    background: #d01f1f;
+    float: left;}
+.three{    width: 33.33%;
+    height: 200px;
+    background: #97765e;
+    float: left;
+    overflow: hidden;
+    padding-right: 0.04px}
+
+
+.right{
+	    width: 30%;
+    height: 600px;
+    background: rgb(187, 172, 129);
+    float: left;
+}
+.four{    
+		width: 100%;
+    height: 600px;
+    background: #FFEB3B;
+    float: left;
+        overflow: hidden
+}
+
+.copyright{  
+		width: 100%;
+    height: 40px;
+        background: #554a47;}
+
+
+img{
+	    max-width: 100%;
+        width: 100%;
+            height: 101%
+}   
+
+div{
+	    font-size: 22px;
+    text-align: center;
+    text-decoration: underline;
+}
